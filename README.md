@@ -1,3 +1,16 @@
+A simple employee register angular application which involves the following capabilities:
+# CRUD operation from WEB API service [.NET]
+
+# Simple Form posting
+
+# Using ngx toastr for asynchronous callback notification
+
+# Using rxjx Observable object [API showcasing observable pattern :: power of reactive programming]
+
+
+
+
+
 # AngularCRUD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
